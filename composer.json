@@ -1,0 +1,16 @@
+{
+    "name": "ali/iran",
+    "type": "project",
+    "require": {
+        "firebase/php-jwt": "^6.8"
+    },
+    "require-dev": {
+        "firebase/php-jwt": "^6.8"
+    },
+    "authors": [
+        {
+            "name": "ALI ABBASI",
+            "email": "msngss111@gmail.com"
+        }
+    ]
+}
